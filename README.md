@@ -1,16 +1,50 @@
-### Hi there 👋
+# Bem vindo ao meu Github. Me chamo Walisson!
 
-<!--
-**WalissonPires/WalissonPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de estar sempre aprendendo sobre novas tecnologias. E estou sempre pronto para um desafio.
 
-Here are some ideas to get you started:
+## Desenvolvimento Web (Fronted)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML/CSS/JS
+- Bootstrap
+- jQuery
+- React
+- Typescript/Javascript
+- PWA
+- Integração com API's
+
+## Desenvolvimento Web (Backend)
+
+- .NET Framework
+- .NET Core
+- C#
+- Node.JS
+- TypeScript
+
+## Desenvolvimento Desktop
+
+- Electron.JS
+- Node.JS
+- Typescript/Javascript
+- React
+- Familiarizado com as linguagens Delphi e Java 
+
+## Padrões de projeto/Arquitetura
+
+- Microservices
+- Clean Architecture
+- DDD
+- Design Patterns
+- POO
+
+## Infraestrutura
+
+- Docker
+- Linux (Básico)
+- Windows
+- Postgresql
+- MySql
+- Sqlite
+- Redis
+- RabbitMQ
+- Nginx
+- IIS
