@@ -8,17 +8,16 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de estar semp
 - Bootstrap
 - jQuery
 - React
+- Next.js
 - Typescript/Javascript
 - PWA
 - Integração com API's
 
 ## Desenvolvimento Web (Backend)
 
-- .NET Framework
-- .NET Core
-- C#
-- Node.JS
-- TypeScript
+- .NET Framework / C#
+- .NET Core / C#
+- Node.JS / Typescript / Javascript
 
 ## Desenvolvimento Desktop
 
