@@ -1,49 +1,66 @@
-# Bem vindo ao meu Github. Me chamo Walisson!
+# 👋 Olá! Eu sou Walisson
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de estar sempre aprendendo sobre novas tecnologias. E estou sempre pronto para um desafio.
+Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho prazer em aprender constantemente e encarar novos desafios — especialmente quando envolvem criar soluções eficientes e escaláveis. Estou sempre em busca de melhorar minhas habilidades.
 
-## Desenvolvimento Web (Fronted)
+---
 
-- HTML/CSS/JS
-- Bootstrap
-- jQuery
-- React
-- Next.js
-- Typescript/Javascript
-- PWA
-- Integração com API's
+## 💻 Habilidades em Desenvolvimento Web
 
-## Desenvolvimento Web (Backend)
+### 🔹 Frontend
 
-- .NET Framework / C#
-- .NET Core / C#
-- Node.JS / Typescript / Javascript
+- HTML, CSS, JavaScript
+- TypeScript
+- React, Next.js
+- Bootstrap, jQuery
+- Progressive Web Apps (PWA)
+- Integração com APIs REST/GraphQL
 
-## Desenvolvimento Desktop
+### 🔹 Backend
 
-- Electron.JS
-- Node.JS
-- Typescript/Javascript
-- React
-- Familiarizado com as linguagens Delphi e Java 
+- Node.js (JavaScript/TypeScript)
+- .NET Core / .NET Framework (C#)
+- Criação de APIs RESTful
 
-## Padrões de projeto/Arquitetura
+---
 
-- Microservices
-- Clean Architecture
-- DDD
-- Design Patterns
-- POO
+## 💠 Desenvolvimento Desktop
 
-## Infraestrutura
+- Electron.js + React para aplicações cross-platform
+- Familiaridade com Delphi e Java
+
+---
+
+## 🧱 Arquitetura & Boas Práticas
+
+- Arquitetura limpa (Clean Architecture)
+- Padrões de Projeto (Design Patterns)
+- Microsserviços
+
+---
+
+## 🚠 Infraestrutura & DevOps
 
 - Docker
-- Linux (Básico)
+- Linux (básico/intermediário)
 - Windows
-- Postgresql
-- MySql
-- Sqlite
-- Redis
+- PostgreSQL, MySQL, SQLite, Redis
 - RabbitMQ
-- Nginx
-- IIS
+- Nginx, IIS
+- Pipelines de CI/CD
+- GitOps
+
+---
+
+## 🚀 Projetos em Destaque
+
+Dê uma olhada nos meus repositórios principais, como:
+
+- **[WPRM Notify](https://github.com/walissonpires/wprm-notify)**: Sistema web para envio de notificações automatizadas via WhatsApp.
+- **[Messaging API](https://github.com/walissonpires/MessagingApi)**: API unificada para envio de mensagens por múltiplos provedores (WhatsApp, Email, SMS, etc).
+
+---
+
+## 📫 Entre em contato
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/walissonprm)
+- ✉️ [walisson@email.com](mailto\:walissonpiresgv@hotmail.com)
