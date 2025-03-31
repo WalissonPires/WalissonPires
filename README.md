@@ -63,4 +63,4 @@ Dê uma olhada nos meus repositórios principais, como:
 ## 📫 Entre em contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/walissonprm)
-- ✉️ [walisson@email.com](mailto\:walissonpiresgv@hotmail.com)
+- ✉️ [walissonpiresgv@hotmail.com](mailto\:walissonpiresgv@hotmail.com)
